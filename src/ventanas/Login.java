@@ -1,6 +1,6 @@
 
 package ventanas;
-//hola
+
 import java.sql.*;
 import clases.conexion;
 import javax.swing.JOptionPane;
